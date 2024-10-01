@@ -11,4 +11,4 @@ The Khi data language - a source format for data.
 ## Libraries
 
 - Rust: [khi.rs](https://github.com/khilang/khi.rs) (Reference implementation)
-- JavaScript:* [khi.js](https://github.com/khilang/khi.js) (`wasm-pack` derived reference implementation)
+- JavaScript: [khi.js](https://github.com/khilang/khi.js) (`wasm-pack` derived reference implementation)
